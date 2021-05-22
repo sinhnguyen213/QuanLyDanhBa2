@@ -56,7 +56,7 @@ public class QuanLy {
 		}
 
 	}
-	
+	//find contacts 
 	// phuong thuc tim kiem danh ba
 	public void searchContacts(String gtTen) {
 		//duyệt danh bạ lấy tên contact
